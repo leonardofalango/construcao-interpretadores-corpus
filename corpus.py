@@ -41,3 +41,9 @@ for site in sites:
   # Para organizar os sites tem como fazer em dicionário.
 
   matrix.append(all_sents)
+
+site0 = matrix[0]
+site1 = matrix[1]
+site2 = matrix[2]
+site3 = matrix[3]
+site4 = matrix[4]
